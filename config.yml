@@ -1,0 +1,13 @@
+# Random exit point is chosen between min-range and range blocks
+# from the world border center (square area, like /rtp).
+# range must be smaller than half of your world border.
+min-range: 0
+range: 1300
+
+# Chat messages. Use & for colors. Placeholders: {x} {y} {z}
+# Set send-messages: false to turn all messages off.
+send-messages: true
+messages:
+  teleported:
+    - "&6Портал выбросил вас в случайное место!"
+    - "&7Вы вышли из портала. Удачи!"

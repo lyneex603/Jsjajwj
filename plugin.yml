@@ -1,0 +1,5 @@
+name: RandomPortal
+version: 1.0
+main: dev.randomportal.RandomPortal
+api-version: '26.3'
+author: RandomPortal
